@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="org.nanohttpd:nanohttpd:2.3.1">
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/nanohttpd-2.3.1.jar" />
+  </library>
+  <library name="su.litvak.chromecast:api-v2:0.10.0">
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/api-v2-0.10.0.jar" />
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/jmdns-3.4.1.jar" />
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/protobuf-java-2.6.0.jar" />
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/jackson-mapper-asl-1.9.13.jar" />
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/jackson-core-asl-1.9.13.jar" />
+    <archive path="C:/Users/danielvolz/IdeaProjects/KeyboardTest/lib/slf4j-api-1.7.21.jar" />
+  </library>
+  <library name="system-hook-2.5">
+    <archive path="Z:/Downloads/system-hook-2.5.jar" />
+  </library>
+</eclipse-userlibraries>
+
