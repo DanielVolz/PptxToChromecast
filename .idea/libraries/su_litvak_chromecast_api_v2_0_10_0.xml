@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="su.litvak.chromecast:api-v2:0.10.0" type="repository">
+    <properties maven-id="su.litvak.chromecast:api-v2:0.10.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/api-v2-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmdns-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protobuf-java-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/api-v2-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
